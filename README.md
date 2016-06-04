@@ -1,1 +1,1 @@
-# Some c++ examples
+# Some C++ examples
